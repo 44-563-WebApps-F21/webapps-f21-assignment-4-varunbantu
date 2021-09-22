@@ -1,0 +1,36 @@
+p
+{
+    font-style:normal;
+    font-family:Helvetica, Times, serif;
+}
+span.a
+{
+    color: green;
+    background-color: rgb(134, 236, 240);
+}
+
+.char1
+{
+    color:rgb(16, 56, 141);
+}
+.char2
+{
+    color: rgb(5, 117, 5);
+}
+#title
+{
+    color:rgb(128, 0, 28);
+}
+span.speech
+{
+    color: black;
+}
+#stagedirection
+{
+    color: rgb(255, 0, 170);
+}
+span.a:hover
+{
+    background-color: silver;
+    color: black;
+}

@@ -19,7 +19,7 @@ span.a
     color:ivory;
     border-style: solid;
     border-color:gold;
-    width: 200px;
+    width: 250px;
 } 
 .char2
 {
@@ -32,7 +32,7 @@ span.a
     color:tan;
     border-style: solid;
     border-color:snow;
-    width: 180px;
+    width: 200px;
 }
 #title
 {
@@ -55,6 +55,25 @@ span.speech
 span.a
 {
     color: rgb(255, 0, 170);
+}
+.navbar{
+    margin: 5px;
+    padding: 5px;
+    margin-left: 0;
+    position: fixed;
+    overflow: hidden;
+    background-color: #333;
+}
+.navbar a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+}
+.navbar a:hover{
+    background-color: #111;
 }
 table{
     border: 2px solid black;

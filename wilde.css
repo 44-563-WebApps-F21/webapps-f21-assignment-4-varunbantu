@@ -38,3 +38,24 @@ span.a
 {
     color: rgb(255, 0, 170);
 }
+table{
+    border: 2px solid black;
+    width: 100%;
+}
+th {
+    border: solid 1px ;
+    background-color: rgb(169, 176, 177);
+    padding: .3em;
+    text-align: center;
+    
+}
+tr:nth-child(odd)
+{
+    background-color: #08d6f1;
+    text-align: center;
+}
+tr:nth-child(even)
+{
+    background-color: white;
+    text-align: center;
+}

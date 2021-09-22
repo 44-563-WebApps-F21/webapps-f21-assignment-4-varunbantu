@@ -6,7 +6,6 @@ p
 span.a
 {
     color: green;
-    background-color: rgb(134, 236, 240);
 }
 
 .char1
@@ -25,33 +24,17 @@ span.speech
 {
     color: black;
 }
+#stagedirection:hover
+{ 
+    background-color: maroon;
+    color:yellowgreen;
+}
 #stagedirection
 {
+    background-color: black;
+    color: white;
+}
+span.a
+{
     color: rgb(255, 0, 170);
-}
-span.a:hover
-{
-    background-color: silver;
-    color: black;
-}
-table{
-    border: 2px solid black;
-    width: 100%;
-}
-th {
-    border: solid 1px ;
-    background-color: rgb(169, 176, 177);
-    padding: .3em;
-    text-align: center;
-    
-}
-tr:nth-child(odd)
-{
-    background-color: #bb08f1;
-    text-align: center;
-}
-tr:nth-child(even)
-{
-    background-color: white;
-    text-align: center;
 }

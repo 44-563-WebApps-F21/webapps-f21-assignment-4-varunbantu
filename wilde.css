@@ -12,9 +12,27 @@ span.a
 {
     color:rgb(16, 56, 141);
 }
+.char1:hover
+{
+    text-shadow: 2px 2px;
+    background-color:dimgray;
+    color:ivory;
+    border-style: solid;
+    border-color:gold;
+    width: 200px;
+} 
 .char2
 {
     color: rgb(5, 117, 5);
+}
+.char2:hover
+{
+    text-shadow: 2px 2px;
+    background-color:turquoise;
+    color:tan;
+    border-style: solid;
+    border-color:snow;
+    width: 180px;
 }
 #title
 {
